@@ -54,7 +54,6 @@ List the main languages, frameworks, and services used. Example:
 
 Getting started
 ---------------
-
 Prerequisites
 - Git >= 2.30
 - Node.js >= 18 (or Python 3.11 / Go 1.20 — update to your language)
@@ -95,7 +94,6 @@ DATABASE_URL=postgres://user:password@localhost:5432/project_pegion
 LOG_LEVEL=info
 ADAPTER_SOME_KEY=your-key-here
 ```
-
 Docker
 ------
 A sample Docker workflow:
