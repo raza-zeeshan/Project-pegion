@@ -7,7 +7,6 @@
 A short, clear one-line description of Project-pegion: what it does and who it’s for.
 
 > Replace the above with a single-sentence elevator pitch. Example: "Project-pegion is a lightweight service for transforming and routing messages between systems with pluggable adapters."
-
 Table of contents
 - [Overview](#overview)
 - [Features](#features)
