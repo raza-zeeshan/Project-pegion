@@ -82,7 +82,6 @@ Quick Start (example for Node.js)
    npm run dev
    ```
 Replace the above commands with the appropriate ones for your project (e.g., `python -m venv .venv && pip install -r requirements.txt` or `go build ./...`).
-
 Environment configuration
 -------------------------
 Use environment variables for secrets and per-environment settings. Add a `.env.example` file in the repo that documents required variables. Example variables:
@@ -119,7 +118,6 @@ Content-Type: application/json
   "payload": { "message": "hello" }
 }
 ```
-
 CLI example:
 ```bash
 # send a test message
