@@ -103,7 +103,6 @@ A sample Docker workflow:
    ```bash
    docker run --env-file .env -p 8080:8080 project-pegion:latest
    ```
-
 Usage
 -----
 Provide examples showing the main workflows / API usage / CLI commands.
