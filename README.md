@@ -28,7 +28,6 @@ Table of contents
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
-
 Overview
 --------
 Provide a short paragraph describing the problem Project-pegion solves, the target audience, and the project goals. Link to any design docs or relevant issues.
